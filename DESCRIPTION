@@ -1,0 +1,16 @@
+Package: popularplays
+Title: Popularity of Played Songs
+Version: 0.1.0
+Authors@R: 
+    person(given = "Alexis",
+           family = "Santise",
+           role = c("aut", "cre"),
+           email = "lexisantise@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Allows user to input Spotify Access Token and receive a bar graph of the last twenty songs played by popularity.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
