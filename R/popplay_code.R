@@ -18,7 +18,7 @@
 #' PopularPlays("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
 #' "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 #'
-#' @keywords internal
+#' @export
 PopularPlays = function(clientID = "",
                         clientSecret = "") {
 
